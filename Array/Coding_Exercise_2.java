@@ -25,7 +25,7 @@ return sum;
     
     	//Optimize Way
         public static int sumDiagonalElement(int[][] array) {
-            int sum = 0;
+            int sum = 0; 
             int numRows = array.length;
      
             for (int i = 0; i < numRows; i++) {
